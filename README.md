@@ -34,3 +34,6 @@
 ![VISUAL_STUDIO_CODE](https://img.shields.io/badge/visual%20studio%20code-blue?labelColor=blue&logo=visual-studio-code&style=for-the-badge&logoColor=white)
 ![VIM](https://img.shields.io/badge/vim-green?labelColor=green&logo=vim&style=for-the-badge&logoColor=white)
 ![NVIM](https://img.shields.io/badge/neovim-darkgreen?labelColor=darkgreen&logo=neovim&style=for-the-badge&logoColor=white)
+
+## Stats
+![stats](https://github-readme-stats.duykhanhrk.vercel.app/api?username=duykhanhrk&show_icons=true&count_private=true&theme=tokyonight)

@@ -8,4 +8,4 @@
 
 ## My Skill
 ![Ruby](https://img.shields.io/badge/ruby-%E2%98%85%E2%98%85%E2%98%85%E2%98%86-red?labelColor=FFFFFF&logo=Ruby&style=for-the-badge&logoColor=red)
-![PYTHON](https://img.shields.io/badge/python-%E2%98%85%E2%98%85%E2%98%86%E2%98%86-yellow?labelColor=FFFFFF&logo=Ruby&style=for-the-badge&logoColor=blue)
+![PYTHON](https://img.shields.io/badge/python-%E2%98%85%E2%98%85%E2%98%86%E2%98%86-yellow?labelColor=FFFFFF&logo=Python&style=for-the-badge&logoColor=blue)

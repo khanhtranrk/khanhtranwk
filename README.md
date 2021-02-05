@@ -37,3 +37,7 @@
 
 ## Stats
 ![stats](https://github-readme-stats.vercel.app/api?username=duykhanhrk&show_icons=true&count_private=true&theme=tokyonight)
+
+## Contact
+[![GITHUB](https://img.shields.io/badge/github-black?labelColor=black&logo=github&style=for-the-badge&logoColor=white)](https://github.com/duykhanhrk)
+[![TWITTER](https://img.shields.io/badge/twitter-blue?labelColor=blue&logo=twitter&style=for-the-badge&logoColor=white)](https://twitter.com/duykhanhrk)

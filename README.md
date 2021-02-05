@@ -36,4 +36,4 @@
 ![NVIM](https://img.shields.io/badge/neovim-darkgreen?labelColor=darkgreen&logo=neovim&style=for-the-badge&logoColor=white)
 
 ## Stats
-![stats](https://github-readme-stats.duykhanhrk.vercel.app/api?username=duykhanhrk&show_icons=true&count_private=true&theme=tokyonight)
+![stats](https://github-readme-stats.vercel.app/api?username=duykhanhrk&show_icons=true&count_private=true&theme=tokyonight)

@@ -6,6 +6,10 @@
 <p><b>Favorites:</b> Chocolate and sweets</p>
 <p><b>Coding for the first time:</b> I learned programming when I was a junior high school student. The first programming language I came across was pascal, which I thought - was interesting and fascinated me for a long time.</p>
 
+## Contact
+[![GITHUB](https://img.shields.io/badge/github-black?labelColor=black&logo=github&style=for-the-badge&logoColor=white)](https://github.com/duykhanhrk)
+[![TWITTER](https://img.shields.io/badge/twitter-blue?labelColor=blue&logo=twitter&style=for-the-badge&logoColor=white)](https://twitter.com/duykhanhrk)
+
 ## My Skills
 ![RUBY](https://img.shields.io/badge/ruby-red?labelColor=red&logo=Ruby&style=for-the-badge&logoColor=white)
 ![PYTHON](https://img.shields.io/badge/python-blue?labelColor=blue&logo=Python&style=for-the-badge&logoColor=white)
@@ -36,8 +40,4 @@
 ![NVIM](https://img.shields.io/badge/neovim-darkgreen?labelColor=darkgreen&logo=neovim&style=for-the-badge&logoColor=white)
 
 ## Stats
-![stats](https://github-readme-stats.vercel.app/api?username=duykhanhrk&show_icons=true&count_private=true&theme=tokyonight)
-
-## Contact
-[![GITHUB](https://img.shields.io/badge/github-black?labelColor=black&logo=github&style=for-the-badge&logoColor=white)](https://github.com/duykhanhrk)
-[![TWITTER](https://img.shields.io/badge/twitter-blue?labelColor=blue&logo=twitter&style=for-the-badge&logoColor=white)](https://twitter.com/duykhanhrk)
+![STATS](https://github-readme-stats.vercel.app/api?username=duykhanhrk&show_icons=true&count_private=true&theme=tokyonight)

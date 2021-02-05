@@ -14,6 +14,8 @@
 ![C++](https://img.shields.io/badge/c%2B%2B-green?labelColor=greenF&logo=C%2B%2B&style=for-the-badge&logoColor=white)
 ![C#](https://img.shields.io/badge/c%20sharp-blue?labelColor=blue&logo=C-Sharp&style=for-the-badge&logoColor=white)
 
+![HTML](https://img.shields.io/badge/html-red?labelColor=red&logo=html5&style=for-the-badge&logoColor=white)
+![CSS](https://img.shields.io/badge/css-dodgerblue?labelColor=dodgerblue&logo=css3&style=for-the-badge&logoColor=white)
 ![JAVASCRIPT](https://img.shields.io/badge/javascript-yellow?labelColor=yellow&logo=javascript&style=for-the-badge&logoColor=white)
 
 ## OS and Tools
@@ -21,3 +23,8 @@
 ![LINUX](https://img.shields.io/badge/linux-orange?labelColor=orange&logo=linux&style=for-the-badge&logoColor=white)
 
 ![RUBY_ON_RAILS](https://img.shields.io/badge/ruby%20on%20rails-red?labelColor=red&logo=ruby-on-rails&style=for-the-badge&logoColor=white)
+
+![GIT](https://img.shields.io/badge/git-orange?labelColor=orange&logo=git&style=for-the-badge&logoColor=white)
+![GITHUB](https://img.shields.io/badge/github-black?labelColor=black&logo=github&style=for-the-badge&logoColor=white)
+![GITLAB](https://img.shields.io/badge/gitlab-darkorange?labelColor=darkorange&logo=gitlab&style=for-the-badge&logoColor=white)
+![BITBUCKET](https://img.shields.io/badge/bitbucket-royalblue?labelColor=royalblue&logo=bitbucket&style=for-the-badge&logoColor=white)

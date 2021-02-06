@@ -43,3 +43,6 @@
 ![STATS](https://github-readme-stats.vercel.app/api?username=duykhanhrk&show_icons=true&count_private=true&theme=tokyonight)
 
 <img src="https://wakatime.com/share/@dkhnh/a1aa4f9d-7445-456b-9d1b-ca8b4b08ba51.svg" width="250" height="250">
+<img src="https://wakatime.com/share/@dkhnh/e06e6e90-6a6e-42a2-8db4-043c98ea890c.svg" width="250" height="250">
+<img src="https://wakatime.com/share/@dkhnh/6a9e12c2-1156-416c-8a94-e2525360b549.svg" width="250" height="250">
+<img src="https://wakatime.com/share/@dkhnh/45850a1a-8132-4c41-bb3d-6823ee8b29f9.svg" width="250" height="250">

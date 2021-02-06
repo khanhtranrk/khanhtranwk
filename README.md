@@ -40,6 +40,6 @@
 ![NVIM](https://img.shields.io/badge/neovim-darkgreen?labelColor=darkgreen&logo=neovim&style=for-the-badge&logoColor=white)
 
 ## Stats
-![STATS](https://github-readme-stats.vercel.app/api?username=duykhanhrk&show_icons=true&count_private=true)
-![MOST_USED_LANGUAGES](https://github-readme-stats.vercel.app/api/top-langs/?username=duykhanhrk&layout=compact)
-![WAKATIME](https://github-readme-stats.vercel.app/api/wakatime?username=duykhanhrk&layout=Compact)
+![STATS](https://github-readme-stats.vercel.app/api?username=duykhanhrk&show_icons=true&count_private=true&theme=dark)
+![MOST_USED_LANGUAGES](https://github-readme-stats.vercel.app/api/top-langs/?username=duykhanhrk&layout=compact&theme=dark)
+![WAKATIME](https://github-readme-stats.vercel.app/api/wakatime?username=duykhanhrk&layout=Compact&theme=dark)

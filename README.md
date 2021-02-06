@@ -42,4 +42,4 @@
 ## Stats
 ![STATS](https://github-readme-stats.vercel.app/api?username=duykhanhrk&show_icons=true&count_private=true&theme=tokyonight)
 
-![WAKATIME_CODING ACTIVITY](https://wakatime.com/share/@dkhnh/a1aa4f9d-7445-456b-9d1b-ca8b4b08ba51.svg)
+<img src="https://wakatime.com/share/@dkhnh/a1aa4f9d-7445-456b-9d1b-ca8b4b08ba51.svg" width="250" height="250">

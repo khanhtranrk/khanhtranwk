@@ -33,7 +33,6 @@
 ![GIT](https://img.shields.io/badge/git-orange?labelColor=orange&logo=git&style=for-the-badge&logoColor=white)
 ![GITHUB](https://img.shields.io/badge/github-black?labelColor=black&logo=github&style=for-the-badge&logoColor=white)
 ![GITLAB](https://img.shields.io/badge/gitlab-darkorange?labelColor=darkorange&logo=gitlab&style=for-the-badge&logoColor=white)
-![BITBUCKET](https://img.shields.io/badge/bitbucket-royalblue?labelColor=royalblue&logo=bitbucket&style=for-the-badge&logoColor=white)
 
 ![VISUAL_STUDIO_CODE](https://img.shields.io/badge/visual%20studio%20code-blue?labelColor=blue&logo=visual-studio-code&style=for-the-badge&logoColor=white)
 ![VIM](https://img.shields.io/badge/vim-green?labelColor=green&logo=vim&style=for-the-badge&logoColor=white)

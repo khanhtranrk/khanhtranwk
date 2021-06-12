@@ -1,5 +1,3 @@
-![TDK_SUZUSHIRO_C1267](https://github.com/duykhanhrk/duykhanhrk/blob/re-br/Assets/bn_00.png)
-
 ## About me
 <p>Hello, I am Khanh a 2nd year student at university.</p>
 <p><b>Hobbies:</b> Watching anime, reading manga and light novels.</p>

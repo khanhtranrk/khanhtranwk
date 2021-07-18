@@ -7,6 +7,8 @@
 [![GITHUB](https://img.shields.io/badge/github-black?labelColor=black&logo=github&style=for-the-badge&logoColor=white)](https://github.com/lqrk)
 
 ## Skills
+[![Sparkline](https://stars.medv.io/lqrk/badges.svg)](https://stars.medv.io/lqrk/badges)
+
 ![RUBY](https://img.shields.io/badge/ruby-red?labelColor=red&logo=Ruby&style=for-the-badge&logoColor=white)
 ![PYTHON](https://img.shields.io/badge/python-blue?labelColor=blue&logo=Python&style=for-the-badge&logoColor=white)
 

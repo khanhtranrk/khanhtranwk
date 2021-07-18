@@ -31,9 +31,8 @@
 ![GITLAB](https://img.shields.io/badge/gitlab-darkorange?labelColor=darkorange&logo=gitlab&style=for-the-badge&logoColor=white)
 
 ![VISUAL_STUDIO_CODE](https://img.shields.io/badge/visual%20studio%20code-blue?labelColor=blue&logo=visual-studio-code&style=for-the-badge&logoColor=white)
-![VIM](https://img.shields.io/badge/vim-green?labelColor=green&logo=vim&style=for-the-badge&logoColor=white)
 ![NVIM](https://img.shields.io/badge/neovim-darkgreen?labelColor=darkgreen&logo=neovim&style=for-the-badge&logoColor=white)
 
 ## Stats
-![STATS](https://github-readme-stats.vercel.app/api?username=lqrk&show_icons=true&count_private=true&theme=dark)
-![MOST_USED_LANGUAGES](https://github-readme-stats.vercel.app/api/top-langs/?username=lqrk&layout=compact&theme=dark)
+![STATS](https://github-readme-stats.vercel.app/api?username=lqrk&show_icons=true&count_private=true&theme=gruvbox)
+![MOST_USED_LANGUAGES](https://github-readme-stats.vercel.app/api/top-langs/?username=lqrk&layout=compact&theme=gruvbox)

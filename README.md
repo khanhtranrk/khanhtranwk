@@ -1,7 +1,7 @@
 ## About me
 <p>Hello, I am Chimeriqlrk :white_heart:</p>
 <p><b>Hobbies:</b> Watching anime, reading manga and light novels :book:</p>
-<p><b>Favorites:</b> Chocolate and sweets :chocolate_bar:</p>
+<p><b>Favorites:</b> Chocolate and sweets :tea:</p>
 
 ## Contact
 [![GITHUB](https://img.shields.io/badge/github-black?labelColor=black&logo=github&style=for-the-badge&logoColor=white)](https://github.com/lqrk)

@@ -1,5 +1,5 @@
 ## About me
-<p>Hello, I am Chimeriqlrk :white_heart:</p>
+<p>Hello, I am lqrk :white_heart:</p>
 <p><b>Hobbies:</b> Watching anime, reading manga and light novels :book:</p>
 <p><b>Favorites:</b> Chocolate and sweets :tea:</p>
 

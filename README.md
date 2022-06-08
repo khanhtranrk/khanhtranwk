@@ -1,4 +1,4 @@
-## Hello, I am duykhanhrk :blossom:
+## Hello, I am duykhanhrk
 <p><b>Hobbies:</b> Watching anime, reading manga and light novels :book:</p>
 <p><b>Favorites:</b> Chocolate and sweets :tea:</p>
 

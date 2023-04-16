@@ -7,4 +7,4 @@ Hello, my name is Duy Khanh
 - Ruby on Rails, ReactJs, React Native
 - PostgreSQL, MySQL
 - Git, Docker
-- Linux
+- Linux (command line)

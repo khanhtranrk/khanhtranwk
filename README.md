@@ -1,5 +1,5 @@
 ```
-Hello, my name is Duy Khanh
+Hello, I am Khanh
 ```
 
 ## 📑 Technical skills
